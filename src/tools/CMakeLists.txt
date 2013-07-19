@@ -16,4 +16,4 @@
 
 add_subdirectory(extractor)
 add_subdirectory(vmap_assembler)
-
+add_subdirectory(vmap_extractor)
